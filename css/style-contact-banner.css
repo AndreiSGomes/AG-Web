@@ -12,7 +12,7 @@ section{
     align-items: center;
     padding: 100px;
     box-sizing: border-box;
-    background: linear-gradient(to left, #680707, #f71313), url(../imagens/banner2.jpg);
+    background: linear-gradient(to left, #050044, #1100ff), url(../imagens/banner2.jpg);
     background-blend-mode: darken;    
 }
 .apresentacao{
@@ -48,7 +48,7 @@ section{
 .services h2 {
     display: inline-block;/*Mantém a linha embaixo do texto do tamanho do mesmo*/
     text-transform: uppercase; /*Texto com letra maiúscula*/
-    border-bottom: 4px solid #ff0000;/*Inserir borda abaixo do texto*/
+    border-bottom: 4px solid #1100ff;/*Inserir borda abaixo do texto*/
     font-size: 20px;
     padding-bottom: 10px;
     position: relative; 
@@ -73,7 +73,7 @@ section{
     background: #81818175;
 }
 .cards i { /*'service' é a classe, 'i' é a tag: esse comando mudou a cor do item*/
-    color: #ff0000;
+    color: #1100ff;
     font-size: 34px;
     margin-bottom: 30px;
 }

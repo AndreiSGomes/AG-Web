@@ -8,12 +8,12 @@ padding: 0;
 }
 .contact-section h1{
     text-align: center;
-    color: #f71313;
+    color: #1100ff;
 }
 .border{
     width: 100px;
     height: 10px;
-    background: yellow;
+    background: #1100ff;
     margin: 40px auto;
 }
 .contact-form{
@@ -35,7 +35,7 @@ padding: 0;
     transition: 0.5s;
 }
 .contact-form-text:focus{
-    box-shadow: 0 0 10px 4px #f71313;
+    box-shadow: 0 0 10px 4px #1100ff;
 }
 textarea contact-form-text{
     resize: none;
@@ -52,6 +52,6 @@ textarea contact-form-text{
     transition: 0.5s;
 }
 .contact-form-btn:hover{
-    background: #f71313;
+    background: #1100ff;
 
 }
